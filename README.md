@@ -1,6 +1,6 @@
 # bikesharing
 
-<<<<<<< HEAD
+
 # Overview of the Project
 
 The purpose of this project is to analyze NYC Citibike utilization and build visualizations that can help us learn more about the business and draw some conclusions around how to implement this business successfully in the city of Des Moines, Iowa. 
@@ -34,5 +34,4 @@ You can also visit some additional graphs we created to slice and dice the data 
 
 - We can also look at other months of the year to see how the utilization changes and if we see a change in trend between gender utilization of the bikes. 
 =======
-https://public.tableau.com/views/Module14_challenge/NYCBikeUtilization?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
->>>>>>> bcec4894b72223c9800e4ad64b30fc364a22986d
+
