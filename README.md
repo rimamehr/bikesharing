@@ -20,7 +20,7 @@ You can also visit some additional graphs we created to slice and dice the data 
 
 - We then look at a comparitive map of Manhattan to see the popular locations for the trips to start and end. In comparing these two graphs we can see that Manhattan seems to be the most popular area where the rides generally start and end.
 
-## Summar:
+## Summary:
 
 - Based off our analysis and visualization we can be certain that male riders use the citibikes more often than female riders. 
 
