@@ -30,7 +30,7 @@ You can also visit some additional graphs we created to slice and dice the data 
 
 ### Additional graphs:
 
-- We added one additional graph to our story to look at the most popular start stations which can further be mapped to see their exact locations around the city. This will help us make sure enough bikes are available at this location and make sure they are well serviced and ready to go.
+- We added one additional graph to our story to look at the most popular start and end stations which can further be mapped to see their exact locations around the city. This will help us make sure enough bikes are available at this location and make sure they are well serviced and ready to go.
 
 - We can also look at other months of the year to see how the utilization changes and if we see a change in trend between gender utilization of the bikes. 
 
