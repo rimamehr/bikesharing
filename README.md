@@ -14,11 +14,27 @@ You can also visit some additional graphs we created to slice and dice the data 
 
 - The first slide shows the number of rides by trip duration broken down by hours and minutes. The peak trip duration is between 4-6 hours. We also a similar comparative graph broken down by gender where we see that Male riders are higher utilizers of the citibike and have higher trip duration than female riders.
 
+<p align="left">
+  <img src="/images/checkout_time.png">
+  </p>
+
 - We then look at a heat map to see what most popular time is in regards to the day of the week. This is futher broken down by gender as well. This is a great graphical reprentation showing us that the bike utilization is the higest early morning before or to work and in the evening after or from work. This graph is extremely helpful in dertermining the best time to get bike repairs done. We also see from the graph that over the weekend the utilization is more evenly spread out during the day and not so concentration during early mornings and late evenings. A similar pattern is seen when this data is broken down by gender exept Male riders have higher concentration of utilization compared to females. 
+
+<p align="left">
+  <img src="/images/Trip_day_hour.png">
+  </p>
 
 - The third slide breaks down the usage by gender, day of the week and usertype. We see the that the users who have a subscription are using the bikes a lot more than cutomers who have pay as you go.
 
+<p align="left">
+  <img src="/images/Usertype.png">
+  </p>
+
 - We then look at a comparitive map of Manhattan to see the popular locations for the trips to start and end. In comparing these two graphs we can see that Manhattan seems to be the most popular area where the rides generally start and end.
+
+<p align="left">
+  <img src="/images/Top_location.png">
+  </p>
 
 ## Summary:
 
@@ -33,5 +49,9 @@ You can also visit some additional graphs we created to slice and dice the data 
 - We added one additional graph to our story to look at the most popular start and end stations which can further be mapped to see their exact locations around the city. This will help us make sure enough bikes are available at this location and make sure they are well serviced and ready to go.
 
 - We can also look at other months of the year to see how the utilization changes and if we see a change in trend between gender utilization of the bikes. 
+
+<p align="left">
+  <img src="/images/Top_station.png">
+  </p>
 
 
